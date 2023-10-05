@@ -12,7 +12,7 @@
             <form action="formhandler.php" method="post">
                 <label for="firstname">First Name </label>
                 <br>
-                <input required type="text" id="firstname" name="firstname" placeholder="Firstname">
+                <input type="text" id="firstname" name="firstname" placeholder="Firstname">
                 <br><br>
                 <label for="message">Write Something Here</label>
                 <br>

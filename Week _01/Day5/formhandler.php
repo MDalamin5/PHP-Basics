@@ -6,6 +6,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
     $eyeClor = htmlspecialchars($_POST["eyecolorblack"]);
     $carType = htmlspecialchars($_POST["cartype"]);
 
+    if(empty($fistName))
+    {
+        
+        header("Location: ./index.php");
+    }
+
     echo "This Data you are Submitted: ";
     echo "<br>";
     echo "$writeSome";
@@ -13,4 +19,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
     echo "$eyeColor";
     echo "<br>";
     echo "$carType";
+
+    
+}
+else{
+    header("Location: ./index.php");
 }
