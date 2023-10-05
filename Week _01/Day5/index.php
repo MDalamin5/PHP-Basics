@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>From Heandeling</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <main>
     
-            <form action="demo/Week%20_01/Day5/formhandler.php" method="post">
+            <form action="formhandler.php" method="post">
                 <label for="firstname">First Name </label>
                 <br>
                 <input required type="text" id="firstname" name="firstname" placeholder="Firstname">
