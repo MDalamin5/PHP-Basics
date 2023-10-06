@@ -16,6 +16,15 @@
       echo $c;
       echo "<br>";
       echo 10 **3;
+      echo "<br>";
+      $n = 2;
+      $m = "2";
+      if($n != $m)
+      {
+        echo "Both Are Equal Number.";
+      }
+      else
+      echo "Not Equal."
       
 
 
