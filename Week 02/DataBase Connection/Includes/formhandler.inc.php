@@ -1,7 +1,8 @@
+
 <?php
 $host = 'localhost';
 $username = 'root';
-$password = '';  // Assuming you have no password set
+$password = '';  
 $database = 'MyDatabase';
 
 // Create a new MySQLi object
@@ -21,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Sanitize and validate data if needed
 
     // SQL query to insert data into the 'users' table
-    $sql = "INSERT INTO users (username, pwt, email) VALUES ('$username', '$password', '$email')";
+    $sql = "INSERT INTO users (username, pwd, email) VALUES ('$username', '$password', '$email')";
 
     if ($conn->query($sql) === TRUE) {
         echo "Data inserted successfully!";
