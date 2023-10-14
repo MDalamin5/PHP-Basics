@@ -1,0 +1,104 @@
+#button-id-27- { margin: unset; color: rgb(0, 0, 0); border-radius: 6px; background-color: rgba(255, 255, 255, 0); padding: 6px 12px; min-height: 36px; letter-spacing: 0px; font-size: 24px; font-weight: 700; font-style: normal; }
+
+#button-id-27-:active, #button-id-27-.active { color: rgb(0, 0, 0) !important; }
+
+#button-id-27-:hover, #button-id-27-.hover { color: rgba(0, 0, 0, 0.5); }
+
+#button-id-29- { margin: unset; color: rgb(0, 0, 0); border-radius: 6px; background-color: rgba(255, 255, 255, 0); padding: 6px 12px; min-height: 36px; letter-spacing: 0px; font-size: 24px; font-weight: 700; font-style: normal; }
+
+#button-id-29-:active, #button-id-29-.active { color: rgb(0, 0, 0) !important; }
+
+#button-id-29-:hover, #button-id-29-.hover { color: rgba(0, 0, 0, 0.5); }
+
+#button-id-31- { margin: unset; color: rgb(0, 0, 0); border-radius: 6px; background-color: rgba(255, 255, 255, 0); padding: 6px 12px; min-height: 36px; letter-spacing: 0px; font-size: 24px; font-weight: 700; font-style: normal; }
+
+#button-id-31-:active, #button-id-31-.active { color: rgb(0, 0, 0) !important; }
+
+#button-id-31-:hover, #button-id-31-.hover { color: rgba(0, 0, 0, 0.5); }
+
+#button-id-33- { margin: unset; color: rgb(0, 0, 0); border-radius: 6px; background-color: rgba(255, 255, 255, 0); padding: 6px 12px; min-height: 36px; letter-spacing: 0px; font-size: 24px; font-weight: 700; font-style: normal; }
+
+#button-id-33-:active, #button-id-33-.active { color: rgb(0, 0, 0) !important; }
+
+#button-id-33-:hover, #button-id-33-.hover { color: rgba(0, 0, 0, 0.5); }
+
+#button-id-39- { margin: unset; border-radius: 6px; font-size: 15px; line-height: 17px; min-height: 40px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); width: 88px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#button-id-39-:active, #button-id-39-.active { background-color: rgb(0, 0, 0) !important; color: rgb(255, 255, 255) !important; }
+
+#button-id-39-:hover, #button-id-39-.hover { background-color: rgba(0, 0, 0, 0.7); color: rgba(255, 255, 255, 0.7); }
+
+#container-id-208- { min-height: 100px; margin: unset;
+  width: 100%; background-color: rgb(246, 238, 238); border-width: 1px; border-style: none; background-repeat: no-repeat; background-size: cover; flex-direction: column; align-items: center; justify-content: center; left: 0px; top: 53px; }
+
+#container-id-208- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-208- > :last-child, #container-id-208- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-35- { min-height: 100px; margin: unset;
+  width: 100%; align-content: flex-start; grid-template-columns: auto auto auto auto; background-color: rgba(32, 29, 29, 0.2); left: 0px; top: 0px; }
+
+#container-id-35- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-35- > :last-child, #container-id-35- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#container-id-36- { flex-direction: column; align-items: flex-start; justify-content: flex-start; padding: 53px; background-color: rgba(0, 0, 0, 0); }
+
+#container-id-36- > * { max-width: 100%; margin-right: 0px !important; margin-bottom: 12px !important; }
+
+#container-id-36- > :last-child, #container-id-36- > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > * { max-width: unset; margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#content-container > :last-child, #content-container > .last-child { margin-right: 0px !important; margin-bottom: 0px !important; }
+
+#form-id-41- { margin: unset; min-height: auto; border-radius: 27px; background-color: rgba(0, 0, 0, 0.2); }
+
+#input-id-182- { margin: unset; border: 1px solid rgb(204, 204, 204); border-radius: 6px; padding: 0px 12px; font-size: 14px; line-height: 16px; min-height: 40px; width: 320px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#input-id-182-:focus, #input-id-182-.focus { border-color: rgb(1, 122, 255) !important; }
+
+#input-id-184- { margin: unset; border: 1px solid rgb(204, 204, 204); border-radius: 6px; padding: 0px 12px; font-size: 14px; line-height: 16px; min-height: 40px; width: 320px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#input-id-184-:focus, #input-id-184-.focus { border-color: rgb(1, 122, 255) !important; }
+
+#input-id-37- { margin: unset; border: 1px solid rgb(204, 204, 204); border-radius: 6px; padding: 0px 12px; font-size: 14px; line-height: 16px; min-height: 40px; width: 320px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#input-id-37-:focus, #input-id-37-.focus { border-color: rgb(1, 122, 255) !important; }
+
+#input-id-38- { margin: unset; border: 1px solid rgb(204, 204, 204); border-radius: 6px; padding: 0px 12px; font-size: 14px; line-height: 16px; min-height: 40px; width: 320px; font-family: inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica,
+    Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; }
+
+#input-id-38-:focus, #input-id-38-.focus { border-color: rgb(1, 122, 255) !important; }
+
+#root-container { background-position: center center; }
+
+#container-id-208- { background-image: url("../../img/-project-image-1.jpeg"); }
+
+@media (min-width:1025px) {#button-id-27- { line-height: 26px; }
+
+#button-id-29- { line-height: 26px; }
+
+#button-id-31- { line-height: 26px; }
+
+#button-id-33- { line-height: 26px; }
+
+#container-id-208- { min-height: 120vh; }
+
+#container-id-35- { display: grid; justify-items: center; min-height: 53px; }
+
+#content-container { position: relative; display: block; }
+
+#content-container > * { position: absolute; }}
+
+@media (min-width:641px) and (max-width:1024px) {#content-container { display: flex; flex-direction: column; }
+
+#content-container > * { max-width: 100%; }}
+
+@media (max-width:640px) {#content-container { display: flex; flex-direction: column; }
+
+#content-container > * { max-width: 100%; }}
