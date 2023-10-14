@@ -14,5 +14,6 @@
         <input type="text" name="email" placeholder="E-mail">
         <button type="submit">Signup</button>
     </form>
+    
 </body>
 </html>

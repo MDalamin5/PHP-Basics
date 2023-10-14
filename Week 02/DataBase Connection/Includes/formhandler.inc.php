@@ -19,6 +19,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $password = $_POST["pwd"];
     $email = $_POST["email"];
 
+    
+
     // Sanitize and validate data if needed
 
     // SQL query to insert data into the 'users' table
